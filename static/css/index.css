@@ -4,19 +4,19 @@
 
 /*----media queries---*/
 
-@media screen and (max-width:375px){
+@media screen and (max-width:374px){
 	.home h1,.skills-box h1,.default-title h1{
 		font-size: 40px !important;
 	}
 }
 
-@media screen and (min-width: 376px) and (max-width:425px){
+@media screen and (min-width: 374px) and (max-width:426px){
 	.home h1,.skills-box h1,.default-title h1{
 		font-size: 48px !important;
 	}
 }
 
-@media screen and (max-width:425px){
+@media screen and (max-width:426px){
 
 	.timeline ul li h2{
 		font-size: 18px ;
@@ -29,7 +29,7 @@
 	}
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:766px){
 	.skills-content{
 		margin-top: 50px !important;
 	}
@@ -43,7 +43,7 @@
 }
 
 .profile-img img{
-	width: 100px;
+	width: 90%;
 }
 
 :root{
