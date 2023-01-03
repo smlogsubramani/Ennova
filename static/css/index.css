@@ -351,3 +351,21 @@ body{
     padding: 0px;
     text-align: center;
 }
+
+
+					/* En-nova code starts here */
+
+.container-fluid .navbar-brand{
+	font-size: xx-large;
+	color: #d510d5;
+	font-family: 'Londrina Shadow', cursive;
+	font-weight: bolder;
+
+}
+
+.container-fluid .navbar-brand:hover{
+	color: #d510d5;
+}
+
+
+
