@@ -1,0 +1,3 @@
+# SSN INVENTE STATIC WEBSITE 2020
+
+| Serving it using <b>GITHUB_PAGES</b>
