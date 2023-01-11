@@ -1,3 +1,5 @@
-# SSN INVENTE STATIC WEBSITE 2020
+#panimalar event page
 
-| Serving it using <b>GITHUB_PAGES</b>
+EN_NOVA
+
+serving it using netlify
